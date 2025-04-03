@@ -81,8 +81,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- News data is currently simulated for demonstration purposes
-- In a production environment, this would integrate with real news APIs
+- News data is currently simulated for demo
+- In a production environment, integrate with real news APIs
 
 ---
 
